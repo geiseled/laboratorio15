@@ -1,0 +1,10 @@
+/* clase para resaltar elementos li */
+.resaltado {
+    background-color: yellow;
+}
+
+/* clase oculta */
+.oculto {
+    display: none;
+}
+
