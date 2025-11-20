@@ -1,0 +1,23 @@
+/* estilo para el ul creado dinamicamente */
+ul[dinamico="lista"] {
+    margin-top: 8px;
+    padding: 10px;
+    background-color: lightgrey;
+    border: 1px solid c;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+/* estilo para los li */
+ul[dinamico="lista"] li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 4px;
+}
+
+/* estilo para el span interno */
+ul[dinamico="lista"] li span {
+    font-weight: bold;
+    color: blueviolet;
+}
