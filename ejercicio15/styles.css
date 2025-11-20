@@ -1,0 +1,7 @@
+/* estilo para article */
+article {
+    border: 1px solid blue;      /* borde */
+    padding: 10px;                  /* espacio interno */
+    margin-bottom: 10px;            /* separacion entre articulos */
+    background-color: lightblue;  /* fondo claro */
+}
