@@ -1,0 +1,29 @@
+/* estilo general del titulo principal */
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+p.info {
+    background-color: lightgoldenrodyellow;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+/* estilo simple para los h2 */
+h2 {
+    color: darkgreen;
+}
+
+/* estilo para el parrafo generado */
+section p {
+    background-color: lightyellow;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+/* estilo para los items de la lista */
+section ul li {
+    color: darkred;
+    margin: 4px 0;
+}
