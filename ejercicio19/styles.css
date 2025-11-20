@@ -1,0 +1,9 @@
+/* estilo para el parrafo creado dinamicamente */
+p[resultado="divs"] {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    border: 1px solid #bfa63a;
+    border-radius: 3px;
+    width: fit-content;
+    margin-top: 12px;
+}
