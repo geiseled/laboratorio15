@@ -1,0 +1,25 @@
+/* estilos para distinguir cada section por data-index */
+
+/* section con data-index = 0 */
+section[data-index="0"] {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* section con data-index = 1 */
+section[data-index="1"] {
+    background-color: lightgreen;
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* section con data-index = 2 */
+section[data-index="2"] {
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
